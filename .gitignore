@@ -1,0 +1,15 @@
+# Raw source data - too large for GitHub, download from original sources
+DelayData/
+WeatherData/
+AircraftRegistrationData/MASTER.txt
+AircraftRegistrationData/DEREG.txt
+AircraftRegistrationData/ACFTREF.txt
+final_flight_dataset.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Claude settings
+.claude/
